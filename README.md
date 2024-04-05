@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on more projects of WEB-DEV as a Front End Dev
 - 📫 You can reach me on my mail: vardaanbhatia.perso@gmail.com (or) my LINKEDIN: @vardaanbhatia
 - 😄 By the way my projects arent pinned in my profile , as they are private so yeah do reach me personally for the resume.
-- ⚡ Great men dont grow overnight , Great men grow through what they gio through.
+- ⚡ Great men dont grow overnight , Great men grow through what they go through.
 
 <!---
 vardaanaroracodes/vardaanaroracodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
