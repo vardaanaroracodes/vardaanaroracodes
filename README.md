@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vardaan Bhatia. 
 - 👀 I'm an Average Front-End NEXT.JS developer 
 - 🌱 I have made quite a few websites and their front-ends are purely designed and executed by me.
-- 💞️ I’m looking to collaborate on more projects of WEB-DEV as a Front End Dev
+- 💞️ I’m looking to collaborate on more projects of web development as a full-stack web developer
 - 📫 You can reach me on my mail: vardaanbhatia.perso@gmail.com (or) my LINKEDIN: @vardaanbhatia
 - 😄 By the way my projects arent pinned in my profile , as they are private so yeah do reach me personally for the resume.
 - ⚡ Great men dont grow overnight , Great men grow through what they go through.
