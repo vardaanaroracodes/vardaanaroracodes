@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vardaanaroracodes&label=Profile%20views&color=0e75b6&style=flat" alt="vardaanaroracodes" /> </p>
 
-- 🔭 I’m currently building [MOBO-AI](www.mobo-ai.com)
+- 🔭 I’m currently working on NewsU check out www.newsu.live
 
 - 🌱 I’m currently learning **Three.js, Framers Motion**
 
